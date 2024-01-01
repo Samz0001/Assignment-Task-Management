@@ -1,6 +1,6 @@
 # Task Management System
 
-APplication that provides users to save their notes also delete,update according to Their Requirements
+Application that provides users to save their notes also delete,update according to Their Requirements
 
 ## Table of Contents
 
