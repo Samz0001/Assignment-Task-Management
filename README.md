@@ -12,9 +12,6 @@ Application that provides users to save their notes also delete,update according
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-Describe the project's purpose, its goals, and how it helps users. Mention the key functionalities and benefits.
 
 ## Features
 
@@ -62,11 +59,5 @@ Describe the project's purpose, its goals, and how it helps users. Mention the k
 3. Create, view, edit, or delete notes as needed.
 4. GO to readme file under notemaker-front folder
 
-## Contributing
 
-Explain how others can contribute to the project, guidelines for pull requests, reporting issues, or any contribution-related information.
-
-## License
-
-Specify the project's license information (e.g., MIT License, Apache License 2.0, etc.).
 
