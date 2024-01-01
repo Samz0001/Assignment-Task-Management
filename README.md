@@ -26,12 +26,12 @@ Describe the project's purpose, its goals, and how it helps users. Mention the k
 ## Technologies Used
 
 - Java (Backend)
-  - Mention any specific Java frameworks used (e.g., Spring Boot)
+  - Spring boot
 - Angular (Frontend)
   - Angular CLI
   - Babel Webpack
   - Angular Webpack
-- Other relevant technologies or libraries
+- 
 
 ## Setup
 
